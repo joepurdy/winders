@@ -1,4 +1,4 @@
-var page = 2;
+var page = 3;
 var url_blog = window.location;
 $(window).scroll(function() {
     if($(window).scrollTop() + $(window).height() == $(document).height()) {
