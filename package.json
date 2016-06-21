@@ -1,4 +1,8 @@
 {
   "name": "winders",
-  "version": "0.0.2"
+  "version": "0.0.2",
+  "repository": "joepurdy/winders",
+  "author": "Joe Purdy <joe@poweredbypurdy.com> (https://poweredbypurdy.com/)",
+  "dependencies": {},
+  "license": "MIT"
 }

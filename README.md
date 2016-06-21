@@ -3,7 +3,9 @@ Winders
 
 A simple theme for [Ghost](https://github.com/tryghost/ghost/) by [Joe Purdy](https://poweredbypurdy.com/).
 
-View Winders in action [here](http://joecod.es/).
+View Winders in action [here](https://joecod.es/).
+
+For the most part the theme is sanitized of hard coded references to my blog, but I know there's a couple things that would need manually adjusted. In other words use this at your own risk.
 
 ## Features
 
@@ -13,4 +15,4 @@ View Winders in action [here](http://joecod.es/).
 
 ## License
 
-Copyright (c) 2015 Joe Purdy - Released under The MIT License.
+Copyright (c) 2016 Joe Purdy - Released under The MIT License.
